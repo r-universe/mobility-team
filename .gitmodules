@@ -5,3 +5,6 @@
 [submodule "cppRoutingCCH"]
 	path = cppRoutingCCH
 	url = https://github.com/mobility-team/cppRoutingCCH
+[submodule "osmdata.mobility"]
+	path = osmdata.mobility
+	url = https://github.com/mobility-team/osmdata.mobility
