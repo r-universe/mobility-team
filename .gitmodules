@@ -2,6 +2,6 @@
 	path = .registry
 	url = https://github.com/mobility-team/mobility-team.r-universe.dev
 	branch = HEAD
-[submodule "cppRouting"]
-	path = cppRouting
+[submodule "cppRoutingCCH"]
+	path = cppRoutingCCH
 	url = https://github.com/mobility-team/cppRoutingCCH
