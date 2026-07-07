@@ -1,0 +1,10 @@
+{
+  "id": 144936400,
+  "created_at": "2026-07-07T08:09:54.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["mobility-team.r-universe.dev"]
+}
